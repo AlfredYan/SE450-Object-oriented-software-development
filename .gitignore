@@ -3,12 +3,8 @@
 .DS_Store
 /*/.settings/
 /*/bin/
-/*/.classpath
-/*/.project
 /*/*/.settings/
 /*/*/bin/
-/*/*/.classpath
-/*/*/.project
 
 # Log file
 *.log
